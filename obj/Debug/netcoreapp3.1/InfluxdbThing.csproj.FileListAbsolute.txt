@@ -1,0 +1,4 @@
+C:\Users\jtext103\Desktop\CFETEventTest\CFETEventTest\InfluxdbThing\obj\Debug\netcoreapp3.1\InfluxdbThing.csprojAssemblyReference.cache
+C:\Users\jtext103\Desktop\CFETEventTest\CFETEventTest\InfluxdbThing\obj\Debug\netcoreapp3.1\InfluxdbThing.AssemblyInfoInputs.cache
+C:\Users\jtext103\Desktop\CFETEventTest\CFETEventTest\InfluxdbThing\obj\Debug\netcoreapp3.1\InfluxdbThing.AssemblyInfo.cs
+C:\Users\jtext103\Desktop\CFETEventTest\CFETEventTest\InfluxdbThing\obj\Debug\netcoreapp3.1\InfluxdbThing.csproj.CoreCompileInputs.cache

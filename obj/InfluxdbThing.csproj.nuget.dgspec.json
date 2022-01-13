@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jtext103\\Desktop\\Influxdb最终运行版本latest\\InfluxdbThing\\InfluxdbThing.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jtext103\\Desktop\\Influxdb最终运行版本latest\\InfluxdbThing\\InfluxdbThing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jtext103\\Desktop\\Influxdb最终运行版本latest\\InfluxdbThing\\InfluxdbThing.csproj",
+        "projectName": "InfluxdbThing",
+        "projectPath": "C:\\Users\\jtext103\\Desktop\\Influxdb最终运行版本latest\\InfluxdbThing\\InfluxdbThing.csproj",
+        "packagesPath": "C:\\Users\\jtext103\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jtext103\\Desktop\\Influxdb最终运行版本latest\\InfluxdbThing\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jtext103\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://222.20.94.134:14999/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "CFET2Core": {
+              "target": "Package",
+              "version": "[2.0.7, )"
+            },
+            "InfluxDB.Client": {
+              "target": "Package",
+              "version": "[1.18.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

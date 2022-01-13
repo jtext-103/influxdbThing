@@ -1,0 +1,107 @@
+C:\Users\jtext103\Desktop\CFETEventTest\CFETEventTest\InfluxdbThing\bin\Debug\netstandard2.0\InfluxdbThing.deps.json
+C:\Users\jtext103\Desktop\CFETEventTest\CFETEventTest\InfluxdbThing\bin\Debug\netstandard2.0\InfluxdbThing.dll
+C:\Users\jtext103\Desktop\CFETEventTest\CFETEventTest\InfluxdbThing\bin\Debug\netstandard2.0\InfluxdbThing.pdb
+C:\Users\jtext103\Desktop\CFETEventTest\CFETEventTest\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.AssemblyInfoInputs.cache
+C:\Users\jtext103\Desktop\CFETEventTest\CFETEventTest\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.AssemblyInfo.cs
+C:\Users\jtext103\Desktop\CFETEventTest\CFETEventTest\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.csproj.CoreCompileInputs.cache
+C:\Users\jtext103\Desktop\CFETEventTest\CFETEventTest\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.dll
+C:\Users\jtext103\Desktop\CFETEventTest\CFETEventTest\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.pdb
+C:\Users\jtext103\Desktop\CFETEventTest\CFETEventTest\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.csprojAssemblyReference.cache
+E:\CFETEventTest\CFETEventTest\InfluxdbThing\bin\Debug\netstandard2.0\InfluxdbThing.deps.json
+E:\CFETEventTest\CFETEventTest\InfluxdbThing\bin\Debug\netstandard2.0\InfluxdbThing.dll
+E:\CFETEventTest\CFETEventTest\InfluxdbThing\bin\Debug\netstandard2.0\InfluxdbThing.pdb
+E:\CFETEventTest\CFETEventTest\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.csprojAssemblyReference.cache
+E:\CFETEventTest\CFETEventTest\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.AssemblyInfoInputs.cache
+E:\CFETEventTest\CFETEventTest\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.AssemblyInfo.cs
+E:\CFETEventTest\CFETEventTest\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.csproj.CoreCompileInputs.cache
+E:\CFETEventTest\CFETEventTest\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.dll
+E:\CFETEventTest\CFETEventTest\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.pdb
+C:\Users\wyx\Documents\Tencent Files\1048415658\FileRecv\CFETEventTest\InfluxdbThing\bin\Debug\netstandard2.0\InfluxdbThing.deps.json
+C:\Users\wyx\Documents\Tencent Files\1048415658\FileRecv\CFETEventTest\InfluxdbThing\bin\Debug\netstandard2.0\InfluxdbThing.dll
+C:\Users\wyx\Documents\Tencent Files\1048415658\FileRecv\CFETEventTest\InfluxdbThing\bin\Debug\netstandard2.0\InfluxdbThing.pdb
+C:\Users\wyx\Documents\Tencent Files\1048415658\FileRecv\CFETEventTest\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.csproj.CoreCompileInputs.cache
+C:\Users\wyx\Documents\Tencent Files\1048415658\FileRecv\CFETEventTest\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.AssemblyInfoInputs.cache
+C:\Users\wyx\Documents\Tencent Files\1048415658\FileRecv\CFETEventTest\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.AssemblyInfo.cs
+C:\Users\wyx\Documents\Tencent Files\1048415658\FileRecv\CFETEventTest\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.dll
+C:\Users\wyx\Documents\Tencent Files\1048415658\FileRecv\CFETEventTest\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.pdb
+C:\Users\wyx\Desktop\CFETEventTest\InfluxdbThing\bin\Debug\netstandard2.0\InfluxdbThing.deps.json
+C:\Users\wyx\Desktop\CFETEventTest\InfluxdbThing\bin\Debug\netstandard2.0\InfluxdbThing.dll
+C:\Users\wyx\Desktop\CFETEventTest\InfluxdbThing\bin\Debug\netstandard2.0\InfluxdbThing.pdb
+C:\Users\wyx\Desktop\CFETEventTest\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.csprojAssemblyReference.cache
+C:\Users\wyx\Desktop\CFETEventTest\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.AssemblyInfoInputs.cache
+C:\Users\wyx\Desktop\CFETEventTest\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.AssemblyInfo.cs
+C:\Users\wyx\Desktop\CFETEventTest\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.csproj.CoreCompileInputs.cache
+C:\Users\wyx\Desktop\CFETEventTest\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.dll
+C:\Users\wyx\Desktop\CFETEventTest\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.pdb
+C:\Users\wyx\Desktop\CFET2APP\InfluxdbThing\bin\Debug\netstandard2.0\InfluxdbThing.deps.json
+C:\Users\wyx\Desktop\CFET2APP\InfluxdbThing\bin\Debug\netstandard2.0\InfluxdbThing.dll
+C:\Users\wyx\Desktop\CFET2APP\InfluxdbThing\bin\Debug\netstandard2.0\InfluxdbThing.pdb
+C:\Users\wyx\Desktop\CFET2APP\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.csprojAssemblyReference.cache
+C:\Users\wyx\Desktop\CFET2APP\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.csproj.CoreCompileInputs.cache
+C:\Users\wyx\Desktop\CFET2APP\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.AssemblyInfoInputs.cache
+C:\Users\wyx\Desktop\CFET2APP\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.AssemblyInfo.cs
+C:\Users\wyx\Desktop\CFET2APP\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.dll
+C:\Users\wyx\Desktop\CFET2APP\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.pdb
+E:\influxdb+epics\InfluxdbThing\bin\Debug\netstandard2.0\InfluxdbThing.deps.json
+E:\influxdb+epics\InfluxdbThing\bin\Debug\netstandard2.0\InfluxdbThing.dll
+E:\influxdb+epics\InfluxdbThing\bin\Debug\netstandard2.0\InfluxdbThing.pdb
+E:\influxdb+epics\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.csprojAssemblyReference.cache
+E:\influxdb+epics\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.AssemblyInfoInputs.cache
+E:\influxdb+epics\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.AssemblyInfo.cs
+E:\influxdb+epics\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.csproj.CoreCompileInputs.cache
+E:\influxdb+epics\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.dll
+E:\influxdb+epics\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.pdb
+C:\Users\jtext103\Desktop\influxdb+epics\InfluxdbThing\bin\Debug\netstandard2.0\InfluxdbThing.deps.json
+C:\Users\jtext103\Desktop\influxdb+epics\InfluxdbThing\bin\Debug\netstandard2.0\InfluxdbThing.dll
+C:\Users\jtext103\Desktop\influxdb+epics\InfluxdbThing\bin\Debug\netstandard2.0\InfluxdbThing.pdb
+C:\Users\jtext103\Desktop\influxdb+epics\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.csprojAssemblyReference.cache
+C:\Users\jtext103\Desktop\influxdb+epics\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.AssemblyInfoInputs.cache
+C:\Users\jtext103\Desktop\influxdb+epics\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.AssemblyInfo.cs
+C:\Users\jtext103\Desktop\influxdb+epics\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.csproj.CoreCompileInputs.cache
+C:\Users\jtext103\Desktop\influxdb+epics\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.dll
+C:\Users\jtext103\Desktop\influxdb+epics\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.pdb
+E:\wfy\code\CFET2Core - 副本\Code\InfluxdbThing\bin\Debug\netstandard2.0\InfluxdbThing.deps.json
+E:\wfy\code\CFET2Core - 副本\Code\InfluxdbThing\bin\Debug\netstandard2.0\InfluxdbThing.dll
+E:\wfy\code\CFET2Core - 副本\Code\InfluxdbThing\bin\Debug\netstandard2.0\InfluxdbThing.pdb
+E:\wfy\code\CFET2Core - 副本\Code\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.csprojAssemblyReference.cache
+E:\wfy\code\CFET2Core - 副本\Code\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.AssemblyInfoInputs.cache
+E:\wfy\code\CFET2Core - 副本\Code\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.AssemblyInfo.cs
+E:\wfy\code\CFET2Core - 副本\Code\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.csproj.CoreCompileInputs.cache
+E:\wfy\code\CFET2Core - 副本\Code\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.dll
+E:\wfy\code\CFET2Core - 副本\Code\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.pdb
+C:\Users\jtext103\Documents\Tencent Files\173094174\FileRecv\Code(1)\InfluxdbThing\bin\Debug\netstandard2.0\InfluxdbThing.deps.json
+C:\Users\jtext103\Documents\Tencent Files\173094174\FileRecv\Code(1)\InfluxdbThing\bin\Debug\netstandard2.0\InfluxdbThing.dll
+C:\Users\jtext103\Documents\Tencent Files\173094174\FileRecv\Code(1)\InfluxdbThing\bin\Debug\netstandard2.0\InfluxdbThing.pdb
+C:\Users\jtext103\Documents\Tencent Files\173094174\FileRecv\Code(1)\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.csprojAssemblyReference.cache
+C:\Users\jtext103\Documents\Tencent Files\173094174\FileRecv\Code(1)\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.AssemblyInfoInputs.cache
+C:\Users\jtext103\Documents\Tencent Files\173094174\FileRecv\Code(1)\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.AssemblyInfo.cs
+C:\Users\jtext103\Documents\Tencent Files\173094174\FileRecv\Code(1)\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.csproj.CoreCompileInputs.cache
+C:\Users\jtext103\Documents\Tencent Files\173094174\FileRecv\Code(1)\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.dll
+C:\Users\jtext103\Documents\Tencent Files\173094174\FileRecv\Code(1)\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.pdb
+I:\Code(1)\InfluxdbThing\bin\Debug\netstandard2.0\InfluxdbThing.deps.json
+I:\Code(1)\InfluxdbThing\bin\Debug\netstandard2.0\InfluxdbThing.dll
+I:\Code(1)\InfluxdbThing\bin\Debug\netstandard2.0\InfluxdbThing.pdb
+I:\Code(1)\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.AssemblyInfoInputs.cache
+I:\Code(1)\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.AssemblyInfo.cs
+I:\Code(1)\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.csproj.CoreCompileInputs.cache
+I:\Code(1)\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.dll
+I:\Code(1)\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.pdb
+I:\Code(1)\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.csprojAssemblyReference.cache
+C:\Users\jtext103\Desktop\Code(1)\InfluxdbThing\bin\Debug\netstandard2.0\InfluxdbThing.deps.json
+C:\Users\jtext103\Desktop\Code(1)\InfluxdbThing\bin\Debug\netstandard2.0\InfluxdbThing.dll
+C:\Users\jtext103\Desktop\Code(1)\InfluxdbThing\bin\Debug\netstandard2.0\InfluxdbThing.pdb
+C:\Users\jtext103\Desktop\Code(1)\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.csprojAssemblyReference.cache
+C:\Users\jtext103\Desktop\Code(1)\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.AssemblyInfoInputs.cache
+C:\Users\jtext103\Desktop\Code(1)\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.AssemblyInfo.cs
+C:\Users\jtext103\Desktop\Code(1)\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.csproj.CoreCompileInputs.cache
+C:\Users\jtext103\Desktop\Code(1)\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.dll
+C:\Users\jtext103\Desktop\Code(1)\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.pdb
+C:\Users\jtext103\Desktop\Influxdb最终运行版本latest\InfluxdbThing\bin\Debug\netstandard2.0\InfluxdbThing.deps.json
+C:\Users\jtext103\Desktop\Influxdb最终运行版本latest\InfluxdbThing\bin\Debug\netstandard2.0\InfluxdbThing.dll
+C:\Users\jtext103\Desktop\Influxdb最终运行版本latest\InfluxdbThing\bin\Debug\netstandard2.0\InfluxdbThing.pdb
+C:\Users\jtext103\Desktop\Influxdb最终运行版本latest\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.csprojAssemblyReference.cache
+C:\Users\jtext103\Desktop\Influxdb最终运行版本latest\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.AssemblyInfoInputs.cache
+C:\Users\jtext103\Desktop\Influxdb最终运行版本latest\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.AssemblyInfo.cs
+C:\Users\jtext103\Desktop\Influxdb最终运行版本latest\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.csproj.CoreCompileInputs.cache
+C:\Users\jtext103\Desktop\Influxdb最终运行版本latest\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.dll
+C:\Users\jtext103\Desktop\Influxdb最终运行版本latest\InfluxdbThing\obj\Debug\netstandard2.0\InfluxdbThing.pdb
